@@ -1,0 +1,147 @@
+body{
+    background-color: #D4ECDD;
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#head
+{
+    height: 95px;
+    width: 1538px;
+    background-color: white;
+    margin-top: -10px;
+    box-shadow: 0 0 20px 0 #999;
+}
+#flower
+{
+    font-size: 50px;
+    margin-top: -85px;
+    margin-left: 100px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#home
+{
+    font-size: 25px;
+    margin-top: -85px;
+    margin-left: 500px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#about
+{
+    font-size: 25px;
+    margin-top: -54px;
+    margin-left: 600px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#product
+{
+    font-size: 25px;
+    margin-top: -54px;
+    margin-left: 720px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#review
+{
+    font-size: 25px;
+    margin-top: -54px;
+    margin-left: 895px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#contact
+{
+    font-size: 25px;
+    margin-top: -54px;
+    margin-left: 1040px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#heart
+{
+   
+    margin-top: -52px;
+    margin-left: 1280px;
+    height: 45px;
+    width: 45px;
+}
+#trolley
+{
+   
+    margin-top: -62px;
+    margin-left: 1335px;
+    height: 45px;
+    width: 45px;
+}
+#pro
+{
+   
+    margin-top: -62px;
+    margin-left: 1400px;
+    height: 45px;
+    width: 45px;
+}
+#flow
+{
+   
+    margin-top: 92px;
+    margin-left: 130px;
+    height: 450px;
+    box-shadow: 0 0 20px 0 #999;
+    width:480px;
+}
+#text
+{
+    font-size: 70px;
+    margin-top: -305px;
+    margin-left: 800px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#text1
+{
+    font-size: 40px;
+    margin-top: -75px;
+    margin-left: 800px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+
+}
+#shop{
+    margin-left: 810px;
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+    color:white;
+    border: 5px solid black;
+    background-color:black ;
+    padding:5px;
+}
+#back{
+    margin-left: 960px;
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+    color:white;
+    margin-top: -33px;
+    border: 5px solid black;
+    background-color: black;
+    width: 59px;
+    padding: 5px;
+    
+   
+}
+a{
+    text-decoration: none;
+    color: #000;
+}

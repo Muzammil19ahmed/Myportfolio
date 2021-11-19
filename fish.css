@@ -1,0 +1,128 @@
+body{
+    
+    background-image: url(fish2.jpg);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+  background-size: 1630px 1000px;
+}
+#head
+{
+    height: 95px;
+    width: 1538px;
+    background-color: white;
+    margin-top: -10px;
+    box-shadow: 0 0 20px 0 #999;
+}
+#flower
+{
+    font-size: 50px;
+    margin-top: -85px;
+    margin-left: 100px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#home
+{
+    font-size: 25px;
+    margin-top: -85px;
+    margin-left: 500px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#about
+{
+    font-size: 25px;
+    margin-top: -54px;
+    margin-left: 600px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#product
+{
+    font-size: 25px;
+    margin-top: -54px;
+    margin-left: 720px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#review
+{
+    font-size: 25px;
+    margin-top: -54px;
+    margin-left: 895px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#contact
+{
+    font-size: 25px;
+    margin-top: -54px;
+    margin-left: 1040px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+}
+#heart
+{
+   
+    margin-top: -52px;
+    margin-left: 1280px;
+    height: 45px;
+    width: 45px;
+}
+#trolley
+{
+   
+    margin-top: -62px;
+    margin-left: 1335px;
+    height: 45px;
+    width: 45px;
+}
+#pro
+{
+   
+    margin-top: -62px;
+    margin-left: 1400px;
+    height: 45px;
+    width: 45px;
+}
+
+
+#text{
+    font-size: 70px;
+    font-family: 'poppins', sans-serif;
+    color:white;
+    text-align: center;
+    margin-top: 220px;
+}
+#lorem{
+    font-size: 40px;
+    font-family: 'poppins', sans-serif;
+    color:white;
+    text-align: center;
+    
+}
+#sea1{
+    margin-left: 700px;
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+    color:white;
+    margin-top: -23px;
+    border: 5px solid white;
+    border-radius: 10px;
+    width: 59px;
+    padding: 10px;
+    
+   
+}
+a{
+    text-decoration: none;
+    color: #000;
+}

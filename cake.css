@@ -1,0 +1,170 @@
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #FFF1AF;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#home
+{
+    font-size: 30px;
+    margin-top: 120px;
+    margin-left: 360px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+  
+    
+}   
+
+    
+#about
+{
+    font-size: 30px;
+    margin-top: -55px;
+    margin-left: 500px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+  
+    
+}    
+#menu
+{
+    font-size: 30px;
+    margin-top: -55px;
+    margin-left: 645px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+  
+    
+}    
+#gallery
+{
+    font-size: 30px;
+    margin-top: -55px;
+    margin-left: 763px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+  
+    
+}  
+
+#contact
+{
+    font-size: 30px;
+    margin-top: -55px;
+    margin-left: 943px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+  
+    
+} 
+#contact:hover{
+color: #B05E27;
+
+}
+#home:hover{
+    color: #B05E27;
+    
+    }
+#gallery:hover{
+        color: #B05E27;
+        
+        }  
+        
+#about:hover{
+            color: #B05E27;
+            
+}
+#menu:hover{
+    color: #B05E27;
+    
+    }
+
+#bakes
+{
+    font-size: 55px;
+    margin-top: -70px;
+    margin-left: -250px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+  
+    
+}   
+#try
+{
+    font-size: 55px;
+    margin-top: 60px;
+    margin-left: -250px;
+    font-family: 'poppins', sans-serif;
+    
+    color:black;
+  
+    
+}   
+#cake{
+    height: 350px;
+    width: 440px;
+    margin-top: -45px;
+    margin-left: -250px;
+
+}
+#cup{
+    height: 350px;
+    width: 640px;
+    margin-top: -540px;
+    margin-left: 720px;
+
+}
+
+#back{
+    margin-left: 720px;
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+    color:black;
+    margin-top: -163px;
+    border: 5px solid #B05E27;
+    
+    width: 59px;
+    padding: 5px;
+    background-color: #B05E27;
+   
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+#face{
+    height: 35px;
+    width: 35px;
+    margin-left: 1420px;
+    margin-top: -370px;
+    
+    
+    
+}
+#ins{
+    height: 35px;
+    width: 35px;
+    margin-left: 1420px;
+    margin-top: -300px;
+    
+    
+    
+}
+#sky{
+    height: 35px;
+    width: 35px;
+    margin-left: 1420px;
+    margin-top: -220px;
+    
+    
+    
+}
