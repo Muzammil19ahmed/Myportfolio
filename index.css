@@ -363,15 +363,13 @@ img{
 }
 #bt
 {
-    
-   
-   
     color: #00BFA6;
     border-radius: 13px;
     margin-left: 635px;
     padding: 12px;
     font-family: 'poppins', sans-serif;
     font-size: 40px;
+    margin-top: 545px;
 }
 #c
 {
